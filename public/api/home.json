@@ -1,0 +1,93 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4448/d9a0fd8f0622d2323161b68d2123c7f28837d28f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    },{
+      "id": 2,
+      "title": "读书",
+      "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 3,
+      "title": "摄影",
+      "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 4,
+      "title": "@IT互联网",
+      "imgUrl": "//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }, {
+      "id": 5,
+      "title": "手绘",
+      "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }, {
+      "id": 6,
+      "title": "简书电影",
+      "imgUrl": "///upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }],
+    "articList": [{
+      "id": 1,
+      "title": "枕上书续",
+      "desc": "凤九一脸懵逼的看着婚宴变成庆功宴，默默地自酌自饮。一杯接一杯的苦酒下喉 凤...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/12591548-658a45e62a3a773e.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 2,
+      "title": "最佳程序员却是公司最懒的人, 每天一行代码都不写",
+      "desc": "每个公司都会有自己的最佳程序员，他们一般都有共同的特性：每天都是公司下班最晚的人，永远都在不知疲倦的敲打着代码。 但有一个程序员确不一样，他叫鲍...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/13090773-2e7f06dff23cc479.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 3,
+      "title": "美国人的性事，都被这剧扒得精光",
+      "desc": "今儿窗窗抠脚给大家安利一部猛剧。 要说这剧多猛，你绝对想象不到—— 在美帝，如果有生理需求， 美国人就会把自己的交友网站中的状态改成“Casua...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/5951641-f6a82d0540d8c97f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 4,
+      "title": "企鹅号怎么赚钱，企鹅号怎么运营，企鹅号怎么写爆文",
+      "desc": "转载自公众号:画学（huaxuea） 万花筒般的线条 令人眼花缭乱 抽象慵懒的线条 亦带着温馨细腻 这些作品都是出自于 澳大利亚的插画家 Yel...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/10812003-71d0fd6b0702a5ed?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    }, {
+      "id": 2,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    }, {
+      "id": 3,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    }, {
+      "id": 4,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 5,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }],
+    "Writers": [{
+      "id": 1,
+      "avatar": "http://upload.jianshu.io/users/upload_avatars/3343569/93161bfa-dda9-49ee-88e1-a85ec4227232.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name":"吴晓布",
+      "desc": "写了584.5k字 · 14.6k喜欢"
+    }, {
+      "id": 2,
+      "avatar": "http://upload.jianshu.io/users/upload_avatars/2844887/cf3b6f90-774a-4ea7-9e59-b29f2f4b7ad6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name":"红瑀",
+      "desc": "写了309.6k字 · 10.7k喜欢"
+    }, {
+      "id": 3,
+      "avatar": "http://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name":"简书大学堂",
+      "desc": "写了1166.5k字 · 22.4k喜欢"
+    }, {
+      "id": 4,
+      "avatar": "http://upload.jianshu.io/users/upload_avatars/5565867/eead6b83-452b-42a7-b77e-5dc9109d8a71.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name":"小万PPT",
+      "desc": "写了111.4k字 · 21.8k喜欢"
+    }, {
+      "id": 5,
+      "avatar": "http://upload.jianshu.io/users/upload_avatars/8781442/adac7350-1979-4076-add4-581969676519.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "name":"胡七筒",
+      "desc": "写了208.9k字 · 8.6k喜欢"
+    }]
+  }
+}
