@@ -20,3 +20,4 @@ react-router >= 4.3.1, redux-immutable >= 4.0.0, styled-components >= 3.3.2
 immutable>= 3.8.2, react-dom >= 16.4.0, react-redux >= 5.0.7
 
 react-router-dom >= 4.3.1, redux >= 4.0.0, redux-thunk >= 2.3.0
+
